@@ -1,0 +1,18 @@
+# Outputs gerados (versione cada projeto separadamente se preferir)
+# outputs/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Configs locais do Claude Code (se houver)
+.claude/settings.local.json
