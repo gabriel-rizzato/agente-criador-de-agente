@@ -24,7 +24,7 @@ No final, você tem uma pasta nova em `outputs/[seu-projeto]/` com `CLAUDE.md` +
 
 1. **Abra a pasta no VSCode:**
    ```
-   File → Open Folder → agente-criador-sistemas
+   File → Open Folder → ia-agente-criador-sistemas
    ```
 
 2. **Abra o terminal integrado (Ctrl+`) e rode:**

@@ -1,5 +1,5 @@
-# Outputs gerados (versione cada projeto separadamente se preferir)
-# outputs/
+# Outputs gerados (versione cada projeto separadamente)
+outputs/
 
 # Arquivos do sistema
 .DS_Store
